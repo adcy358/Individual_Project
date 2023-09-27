@@ -23,7 +23,7 @@ Additionally, ensure that you have a compatible GPU if you want to leverage GPU 
 ## Dataset
 Our AI poetry generator is trained on a dataset of Spanish poems. You can access and download this dataset from the following link:
 
-[Spanish Poetry Dataset](https://www.kaggle.com/datasets/andreamorgar/ spanish-poetry-dataset)
+[Spanish Poetry Dataset](https://www.kaggle.com/datasets/andreamorgar/spanish-poetry-dataset)
 
 ## Customization
 You can customize the AI poetry generator by modifying various hyperparameters and settings in the code. These include the model architecture, learning rate, sequence length, and more. Dive into the code to explore and tweak these settings according to your preferences.
